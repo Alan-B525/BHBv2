@@ -1,2 +1,1 @@
-# BHBv2
-Portafolio BHB con pestañas
+# RNR Trabajo Final Inteligencia Computacional 2022
